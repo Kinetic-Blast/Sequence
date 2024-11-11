@@ -1,7 +1,7 @@
 # Sequence
 WIP project for malware detection
 
-#Idea this is not complete yet
+# Idea this is not complete yet
 
 # Hash-Based Virus Analysis Tool
 
